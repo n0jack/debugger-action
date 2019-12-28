@@ -1,4 +1,4 @@
-name: Ubuntu
+name: Ubuntu11
 on: [push]
 jobs:
   Ubuntu:
